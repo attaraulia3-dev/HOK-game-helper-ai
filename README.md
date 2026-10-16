@@ -1,1 +1,1 @@
-# HOK-game-helper-ai
+# HOK-AI-Pendamping
